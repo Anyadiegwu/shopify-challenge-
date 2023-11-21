@@ -1,4 +1,3 @@
-
     function showNot(item){
         const bell = item.parentNode
         const checkPH = bell.querySelector(".pro-sh")
